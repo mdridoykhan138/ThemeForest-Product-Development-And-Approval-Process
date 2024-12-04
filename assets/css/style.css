@@ -1,0 +1,69 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: 
+    Template URI: 
+    Description: TThemeForest Product Development and Approval Process.
+    Author: Md Ridoy Khan
+    Author URI: https://github.com/mdridoykhan138
+    Support: ridoykhan.cse.web@gmail.com
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. main section area here
+
+    
+-----------------------------------------------------------------------------------*/
+
+
+/* 
+--------------------------
+1. main section area here
+--------------------------
+*/
+.mainSection {
+    padding: 60px 0px;
+}
+.mainSection .mainContent h2 {
+    margin-bottom: 20px;
+}
+.mainSection .mainContent h3 {
+    font-weight: 700;
+    color: var(--black);
+    text-decoration: underline;
+}
+.mainSection .mainContent h4 {
+    font-weight: 700;
+    color: var(--black);
+}
+.mainSection .mainContent h6 span {
+    font-weight: 700;
+    color: var(--primary);
+}
+.mainSection .mainContent span {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 700;
+    color: var(--black);
+}
+.mainSection .mainContent ul {
+    margin-bottom: 10px;
+}
+.mainSection .mainContent ul li {
+    margin-bottom: 10px;
+}
+table {
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid var(--black); 
+}
+
+/*################## 
+--------------------------
+- main section area ends here
+--------------------------
+##################*/
